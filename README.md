@@ -20,6 +20,7 @@ Este es un sistema web sencillo desarrollado en **PHP puro (sin frameworks)** pa
 ## Estructura del proyecto
 
 prueba-junior-monica
+```plaintext
 ├── index.php # Página principal con el formulario y listado
 ├── css/
 │ └── style.css # Estilos personalizados
