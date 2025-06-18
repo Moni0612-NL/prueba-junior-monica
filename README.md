@@ -31,7 +31,7 @@ prueba-junior-monica
 │ ├── registrar.php # Guarda registros nuevos
 │ ├── listar.php # Devuelve el listado en JSON
 │ └── eliminar.php # Elimina una persona por ID
-└── README.md # aqui
+└── README.md # Este archivo
 
 ## Requisitos
 
