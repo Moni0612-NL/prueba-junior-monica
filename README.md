@@ -1,3 +1,4 @@
+```plaintext
 # Prueba Técnica - Registro de Interesados en Capacitación
 
 Este es un sistema web sencillo desarrollado en **PHP puro (sin frameworks)** para registrar, listar y eliminar personas interesadas en una capacitación, cumpliendo con los requisitos técnicos y funcionales especificados en la prueba técnica.
@@ -20,7 +21,6 @@ Este es un sistema web sencillo desarrollado en **PHP puro (sin frameworks)** pa
 ## Estructura del proyecto
 
 prueba-junior-monica
-```plaintext
 ├── index.php # Página principal con el formulario y listado
 ├── css/
 │ └── style.css # Estilos personalizados
